@@ -4,3 +4,7 @@
 2. Arithmetic Operation
  ![2](https://github.com/user-attachments/assets/11676762-ed6b-4fa1-aa0c-cf3b141a14be)
 
+3.Define variable (var)
+![3](https://github.com/user-attachments/assets/3adfcf95-c00b-4454-ae5b-58d390af469e)
+
+
