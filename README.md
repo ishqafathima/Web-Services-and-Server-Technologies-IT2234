@@ -10,5 +10,9 @@
 4.Print numbers 1 to 10
 ![4](https://github.com/user-attachments/assets/40c5ed92-24a0-4c00-a9c6-c3adf4db8bc6)
 
+5.Print only odd numbers
+![5](https://github.com/user-attachments/assets/24514aef-34d8-485b-9d57-a841f6aefde8)
+
+
 
 
