@@ -7,4 +7,8 @@
 3.Define variable (var)
 ![3](https://github.com/user-attachments/assets/3adfcf95-c00b-4454-ae5b-58d390af469e)
 
+4.Print numbers 1 to 10
+![4](https://github.com/user-attachments/assets/40c5ed92-24a0-4c00-a9c6-c3adf4db8bc6)
+
+
 
