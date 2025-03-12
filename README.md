@@ -16,7 +16,9 @@
 6.Print the numbers in reverse
 ![6](https://github.com/user-attachments/assets/bcf5bb0a-b543-4b7a-8331-3ee9fcde503a)
 
-7.
+7.Reverse the numbers in left and right
+![7](https://github.com/user-attachments/assets/750138ad-65fc-45be-930d-da79a5bb0102)
+
 
 
 
