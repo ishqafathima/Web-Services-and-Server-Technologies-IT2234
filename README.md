@@ -13,6 +13,12 @@
 5.Print only odd numbers
 ![5](https://github.com/user-attachments/assets/24514aef-34d8-485b-9d57-a841f6aefde8)
 
+6.Print the numbers in reverse
+![6](https://github.com/user-attachments/assets/bcf5bb0a-b543-4b7a-8331-3ee9fcde503a)
+
+7.
+
+
 
 
 
