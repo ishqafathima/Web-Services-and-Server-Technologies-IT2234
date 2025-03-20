@@ -7,7 +7,9 @@
 3.All pairs with sum
 ![Allpairswithsum](https://github.com/user-attachments/assets/07919df9-4145-497a-b0a7-3a8fbe6e2e1c)
 
-4.
+4.Common Elements
+![commonelements](https://github.com/user-attachments/assets/d12ed636-b31a-476e-b18e-1394a8dae2e7)
+
 
 
 
