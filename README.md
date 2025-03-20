@@ -16,6 +16,12 @@
 6.Array Operation
 ![Arrayoperation](https://github.com/user-attachments/assets/8fc5151d-6bfc-4f67-a370-2c002a1230a8)
 
+7.Reverse Array
+![reversearray](https://github.com/user-attachments/assets/080c8c59-6ebc-4141-ba71-cb0a26dd2524)
+
+
+
+
 
 
 
