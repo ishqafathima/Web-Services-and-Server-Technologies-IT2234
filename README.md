@@ -7,6 +7,11 @@
 3.Recursive
 ![recursive](https://github.com/user-attachments/assets/e510b034-fc76-4404-857b-41787c2b5bb5)
 
+4.Arrow_Function
+![Arrow_function](https://github.com/user-attachments/assets/8cd87af4-482f-42d6-8b7f-ca010770d857)
+
+
+
 
 
 
