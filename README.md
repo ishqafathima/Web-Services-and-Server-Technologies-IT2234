@@ -19,6 +19,11 @@
 7.Reverse Array
 ![reversearray](https://github.com/user-attachments/assets/18303354-1401-443f-992a-d9e1e4044c9f)
 
+8.jason
+![jason](https://github.com/user-attachments/assets/1450c117-fc5a-4983-aa5e-3b57d8a811b4)
+
+
+
 
 
 
