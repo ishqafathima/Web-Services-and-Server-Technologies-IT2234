@@ -13,7 +13,11 @@
 5.Most Frequent Element
 ![frequentelement](https://github.com/user-attachments/assets/0446d94f-5603-4df8-9b4a-530c8e46893d)
 
-6.
+6.Array Operation
+![Arrayoperation](https://github.com/user-attachments/assets/8fc5151d-6bfc-4f67-a370-2c002a1230a8)
+
+
+
 
 
 
