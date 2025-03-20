@@ -10,6 +10,12 @@
 4.Common Elements
 ![commonelements](https://github.com/user-attachments/assets/d12ed636-b31a-476e-b18e-1394a8dae2e7)
 
+5.Most Frequent Element
+![frequentelement](https://github.com/user-attachments/assets/0446d94f-5603-4df8-9b4a-530c8e46893d)
+
+6.
+
+
 
 
 
