@@ -17,7 +17,10 @@
 ![Arrayoperation](https://github.com/user-attachments/assets/8fc5151d-6bfc-4f67-a370-2c002a1230a8)
 
 7.Reverse Array
-![reversearray](https://github.com/user-attachments/assets/080c8c59-6ebc-4141-ba71-cb0a26dd2524)
+![reversearray](https://github.com/user-attachments/assets/18303354-1401-443f-992a-d9e1e4044c9f)
+
+
+
 
 
 
