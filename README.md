@@ -1,3 +1,7 @@
+1.Server
+![server](https://github.com/user-attachments/assets/a42805f4-ebe9-4df3-9509-78aa674de8c1)
+![server1](https://github.com/user-attachments/assets/9efa168f-a886-4789-a6df-051770504c6e)
+
 
 
 
